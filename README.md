@@ -18,7 +18,15 @@ Steps:
 
     *   Clone the repo: git clone https://github.com/BharatGuturi/sqlalchemy-challenge.git
 
-    *   
+    *   Input files are placed in "Resources" folder. It contains measurements and station data in separate csvs for Hawaii.
+
+    *   Run climate.ipynb to get the results of precipitation analysis in the area.
+
+    *   Run app.py to get the results of climate app apis
+
+    *   Run Bonus_1.ipynb to get the temperature results in June and December
+
+    *   Run Bonus_2.ipynb to get the temperature results for a specific timeframe
 
 
 
