@@ -1,6 +1,7 @@
-# sqlalchemy-challenge
-This project is about the climate analysis of a specific area during a specific duration
+# Climate analysis using sql alchemy
+This project is about the climate analysis of a specific area during a specific duration.
 
+## Summary
 The project consists of the following:
 
   *  To perform an analysis of precipitation in the area
@@ -14,9 +15,9 @@ The project consists of the following:
   *  Analysising the data for a specific timeframe in the previous year to determine whether the weather will be less than ideal.
 
 
-Steps:
+## Steps:
 
-    *   Clone the repo: git clone https://github.com/BharatGuturi/sqlalchemy-challenge.git
+    *   Clone the repo: git clone https://github.com/BharatGuturi/Climate-analysis-using-sql-alchemy.git
 
     *   Input files are placed in "Resources" folder. It contains measurements and station data in separate csvs for Hawaii.
 
